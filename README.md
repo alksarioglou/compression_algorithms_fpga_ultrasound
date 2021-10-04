@@ -19,8 +19,6 @@ It contains:
 ## Structure of the repository
 This repository contains:
 
-- `datasets` folder which includes the datasets used during the project, which can be otherwise downloaded from https://www.creatis.insa-lyon.fr/Challenge/IEEE_IUS_2016/download.
-
 - `Simulations` folder which contains the source code for the Python implementation of the compression algorithms of Decimation-Demodulation, Re-quantization, LAVA and their combinations of 2 or 3 algorithms. There are also individual folders where the reconstructed images of each algorithm are saved. 
 
 - `FPGA Implementation` folder which contains the files required to run the simulation of the FPGA implementation of the algorithms. It includes:
