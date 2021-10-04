@@ -23,11 +23,8 @@ This repository contains:
 
 - `FPGA Implementation` folder which contains the files required to run the simulation of the FPGA implementation of the algorithms. It includes:
 
-    - The `Coeffs` subfolder which contains many different configurations of filter parameters with naming convention `lpf_8` or `lpf_o8` (Low-Pass Filter of order 8).
-    - The `HDL_constrains` subfolder which contains the constraints of the VIVADO project
     - The `HDL_sources` subfolder which contains the RTL code for all the algorithms and their sub-modules
     - The `HDL_testbenches` subfolder which contains the input stimuli to simulate the algorithms
-    - The `AFE_signal_processing_block.tcl` file which can be used to build the project in VIVADO
 
 
 ## Installation and usage
