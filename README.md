@@ -19,12 +19,12 @@ It contains:
 ## Structure of the repository
 This repository contains:
 
-- `Simulations` folder which contains the source code for the Python implementation of the compression algorithms of Decimation-Demodulation, Re-quantization, LAVA and their combinations of 2 or 3 algorithms. There are also individual folders where the reconstructed images of each algorithm are saved. 
+- `Simulations` directory which contains the source code for the Python implementation of the compression algorithms of Decimation-Demodulation, Re-quantization, LAVA and their combinations of 2 or 3 algorithms. There are also individual folders where the reconstructed images of each algorithm are saved. 
 
-- `FPGA Implementation` folder which contains the files required to run the simulation of the FPGA implementation of the algorithms. It includes:
+- `FPGA Implementation` directory which contains the files required to run the simulation of the FPGA implementation of the algorithms. It includes:
 
-    - The `HDL_sources` subfolder which contains the RTL code for all the algorithms and their sub-modules
-    - The `HDL_testbenches` subfolder which contains the input stimuli to simulate the algorithms
+    - The `HDL_sources` directory which contains the RTL code for all the algorithms and their sub-modules
+    - The `HDL_testbenches` directory which contains the input stimuli to simulate the algorithms
 
 
 ## Installation and usage
