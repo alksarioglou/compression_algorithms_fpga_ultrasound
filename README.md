@@ -7,13 +7,13 @@ More, specifically this includes the code for simulations performed on compressi
 
 It contains:
 
-- Python code to simulate individual algorithms,
-- Python code to simulate combinations of 2 algorithms,
-- Python code to simulate combinations of 3 algorithms,
-- SystemVerilog code for Decimation-Demodulation,
-- SystemVerilog code for Re-quantization,
-- SystemVerilog code for Decimation-Demodulation -> Re-quantization,
-- SystemVerilog code for LAVA
+- **Python** code to simulate individual algorithms,
+- **Python** code to simulate combinations of 2 algorithms,
+- **Python** code to simulate combinations of 3 algorithms,
+- **SystemVerilog** code for Decimation-Demodulation,
+- **SystemVerilog** code for Re-quantization,
+- **SystemVerilog** code for Decimation-Demodulation -> Re-quantization,
+- **SystemVerilog** code for Largest Variation (LAVA)
 
 
 ## Structure of the repository
