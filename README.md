@@ -1,4 +1,4 @@
-# Compression Algorithms for Ultrasound Imaging on the Xilinx Artix-7 FPGA
+# Compression Algorithms for Ultrasound Imaging on the Xilinx Artix-7 FPGA using Python and SystemVerilog
 
 ## Introduction
 This repository contains all the work produced by Alkinoos Sarioglou (asarioglou@student.ethz.ch) during the semester project in FS2021 at the Integrated Systems Laboratory of ETH Zurich.
